@@ -1,0 +1,90 @@
+/* Bootstrap */
+.navbar {
+	background: #013149;
+	border-radius: 20px;
+	border: solid;
+	color: #013149; 
+}
+.navbar .navbar-nav .nav-item{
+	font-size: 20px;
+	font: weight 600px; ;
+}
+#contenedor{
+    width: 1200px;
+	margin: auto;
+	margin-top: 20px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+body{
+	background: #cbcbcc;
+}
+
+.logo{
+	
+	color: #FFFFFF;
+	text-align: center;
+	background: #013149;
+	margin-top: 10px;
+	height: 120px;
+	border-radius: 20px;
+}
+.im-logo{
+	overflow:auto;
+	position:relative;
+	width: 100%;
+	color: #FFFFFF;
+	text-align: center;
+	background: #013149;
+	margin-top: 10px;
+	height: 120px;
+	border-radius: 20px;
+}
+
+h1{
+	background: #f18b04;
+	color: #FFFFFF;
+	text-align: center;
+	border-radius: 20px;
+	margin-top: 10px;
+	border: solid;
+	color: #013149;
+}
+.cuestionario{
+	overflow:auto;
+	background: #ffffff;
+	margin: 10px 0px 10px 0px;
+	border-radius: 10px;
+	padding: 10px;
+	position:relative;
+	width: 100%;
+}
+.aside{
+	overflow:auto;
+	background: #FFFFFF;
+	margin-top: 10px;
+	border-radius: 10px;
+	padding: 10px;
+	height: 1050px;
+	position:relative;
+}
+.aside img{
+	padding:"0px";
+}
+
+
+#twitter-timeline{
+	height: 400;
+}
+ .footer{
+	background: #e23004;
+	border-radius: 10px;
+    border: solid;
+	color: #FFFFFF; 
+    overflow:hidden;
+	text-align: center;
+ }
+ .form{
+	 display: block;
+	 
+ }
