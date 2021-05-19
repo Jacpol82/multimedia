@@ -77,6 +77,9 @@ h2{
 .matricula{
 	width: 100%;
 }
+.autor{
+	text-align:center;
+}
 
 .botonazul{
 	padding: 5px;
@@ -108,7 +111,17 @@ h2{
 }
 .insc{
 	width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
+.cubos{
+	width: 60%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .torres{
 	width: 70%;
 	float: right;
