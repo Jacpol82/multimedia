@@ -110,13 +110,13 @@ h2{
    background-color: #ffffff;
 }
 .insc{
-	width: 100%;
+	width: 80%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
 .cubos{
-	width: 60%;
+	width: 40%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -127,6 +127,18 @@ h2{
 	float: right;
 	margin: 10px 0px 10px 0px;
 }
+
+.html{
+	float: right;
+	margin: 10px 0px 10px 0px;
+}
+ .videoHTML{
+	float: right;
+	margin: 10px 0px 10px 0px;
+ }
+ .codigo{
+	 width: 50%;
+ }
 .aside{
 	overflow:auto;
 	background: #FFFFFF;
